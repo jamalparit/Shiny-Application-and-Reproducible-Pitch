@@ -5,7 +5,8 @@ date: "July 28, 2018"
 output: html_document
 ---
 
-###Developing Data Products Project
+
+### Developing Data Products Project
 
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio’s servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
@@ -21,7 +22,7 @@ Some reactive output displayed as a result of server calculations
 You must also include enough documentation so that a novice user could use your application.
 The documentation should be at the Shiny website itself. Do not post to an external link. The Shiny application in question is entirely up to you. However, if you’re having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don’t need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.
 
-###Reproducible Pitch Presentation
+### Reproducible Pitch Presentation
 Get 5 slides (inclusive of the title slide) to pitch a your app. You’re going to create a web page using Slidify or Rstudio Presenter with an html5 slide deck.
 
 Here’s what you need
@@ -39,7 +40,7 @@ It must be 5 pages
 It must be hosted on github or Rpubs
 It must contained some embedded R code that gets run when slidifying the document
 
-###Application - Population in State of Kedah, Malaysia 
+### Application - Population in State of Kedah, Malaysia 
 
 Kedah is one of state in Malaysia. Data is come from Malaysia's Open Data Portal. The population is between 2013 - 2016.
 
