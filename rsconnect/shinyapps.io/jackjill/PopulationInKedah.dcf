@@ -1,0 +1,13 @@
+name: PopulationInKedah
+title: PopulationInKedah
+username:
+account: jackjill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 389768
+bundleId: 1504886
+url: https://jackjill.shinyapps.io/PopulationInKedah/
+when: 1532771005.87009
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|presentation.md|presentation.Rpres|puertoricansinusa.csv|README.md|screenshot.PNG|presentation-figure/unnamed-chunk-2-1.png
