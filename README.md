@@ -42,12 +42,12 @@ It must contained some embedded R code that gets run when slidifying the documen
 
 ### Application - Population in State of Kedah, Malaysia 
 
-Kedah is one of state in Malaysia. Data is come from Malaysia's Open Data Portal. The population is between 2013 - 2016.
+Kedah is one of state in Malaysia. Data is come from Malaysia's Open Data Portal. http://www.data.gov.my/data/en_US/dataset/jumlah-penduduk-kedah-mengikut-daerah-2013-2016/resource/fde0652b-4594-46d0-9078-1504acc33da0 . The population is between 2013 - 2016.
 
 The repository consists of three final files:
+
 ui.R
 server.R
-README.md
 Data File:
 kedahmalaysia.csv
 
