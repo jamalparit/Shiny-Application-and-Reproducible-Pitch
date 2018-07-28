@@ -12,11 +12,19 @@ This is presentation is part of Course Project for Developing Data Products
 **Agenda**
 - Idea
 - Data Details
+<<<<<<< HEAD
 - First View of Application
 - Summary
 
 Data Details
 ==================================
+=======
+- Data Example
+- Summary
+
+Slide With Code
+========================================================
+>>>>>>> 69a83cfa9fb85389e544b753665d1772b340fe41
 
 
 ```r
