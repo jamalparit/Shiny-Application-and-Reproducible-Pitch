@@ -1,6 +1,6 @@
-presentation
+Reproducible Pitch Presentation
 ========================================================
-author: ismail che ani
+author: Ismail Che Ani
 date: 28/7/2018
 autosize: true
 
@@ -12,29 +12,32 @@ This is presentation is part of Course Project for Developing Data Products
 **Agenda**
 - Idea
 - Data Details
-<<<<<<< HEAD
-- First View of Application
+- View of Application
 - Summary
 
+Application Idea
+========================================================
+The application idea is to let user predict using data from Malaysia's Open Data Portal regarding population in state of Kedah. They can choose between district to see the population of state Kedah by enter the district .
 Data Details
-==================================
-=======
-- Data Example
-- Summary
-
-Slide With Code
 ========================================================
 >>>>>>> 69a83cfa9fb85389e544b753665d1772b340fe41
 
 ```{r}
 prpeople <- read.csv("./kedahmalaysia.csv")
-summary(prpeople)
+names(prpeople)
 ```
 
-Slide With Plot
-==================================
+View of Application
+========================================================
 <div style="color: #25679E;">
 The idea of the application is to provide useful interface view population in Kedah one of state in Malaysia by region.It could be use for testing different application where requires relevant contact information like population by district.
 </div>
 
 ![Main screenshot](screenshot.png)
+
+Summary
+========================================================
+
+The shiny application is deployed on ShinyApps.io server at: https://jackjill.shinyapps.io/PopulationInKedah/
+
+Git repository at: https://github.com/jamalparit/Shiny-Application-and-Reproducible-Pitch
