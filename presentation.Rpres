@@ -1,0 +1,32 @@
+presentation
+========================================================
+author: ismail che ani
+date: 28/7/2018
+autosize: true
+
+Introduction
+========================================================
+
+This is presentation is part of Course Project for Developing Data Products
+
+**Agenda**
+- Idea
+- Data Details
+- Data Example
+- Summary
+
+Slide With Code
+========================================================
+
+```{r}
+prpeople <- read.csv("./kedahmalaysia.csv")
+summary(prpeople)
+```
+
+Slide With Plot
+==================================
+<div style="color: #25679E;">
+The idea of the application is to provide useful interface view population in Kedah one of state in Malaysia by region.It could be use for testing different application where requires relevant contact information like population by district.
+</div>
+
+![Main screenshot](screenshot.png)
